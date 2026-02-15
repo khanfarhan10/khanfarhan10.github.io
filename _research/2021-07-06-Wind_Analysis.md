@@ -36,7 +36,7 @@ mathjax: true
 
 # Abstract
 
-The rise of COVID-19 pandemic is alarmingly exponential in nature, and there is no certain predictability in the patterns of its future growth. This research aims at providing suitable insights into the current spread of the novel coronavirus (COVID 19) and conveys detailed analysis into current statistical growth rates of the infection frequency for diverse cases. We also provide schematic visualizations contrast and compare trends between various countries and India. We inspect closely and differentiate between the curves for the mortality rates globally. Also projected categorically most affected states of India.Finally, this research proposes methodologies for design and implementation of deep learning models for the predictive modelling of the various cases around the world and delivers predictions till March 2021 for confirmed and death cases.
+This research presents a practical power analysis approach for wind energy systems using machine learning techniques. The study explores wind turbine power analysis methodologies and data-driven approaches for understanding and optimizing wind energy generation. Published in IEEE Xplore.
 
 
 # Paper

@@ -5,7 +5,7 @@ title: "Research"
 author_profile: true
 excerpt: "Research Works in Data Science Machine Learning Artificial Intelligence"
 tagline: |
-  Published in Emminent Journals :
+  Published in Eminent Journals :
   <br>
   **CRC Press | Taylor and Francis (Routledge)**
   <br>

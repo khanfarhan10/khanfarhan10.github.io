@@ -32,7 +32,7 @@ use_math: true
 - Learnt about SQL and Databases in Python
 - Data Visualization in Python (Matplotlib, Seaborn, Plotly)
 - Web Scraping Tools and Web Data Access with Automation 
-- Data Strcutures and Algorithms with Python
+- Data Structures and Algorithms with Python
 
 
 **Details**<br/><br/>

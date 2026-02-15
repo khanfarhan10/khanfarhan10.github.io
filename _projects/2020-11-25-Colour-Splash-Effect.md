@@ -9,13 +9,12 @@ categories:
   - projects
 
 tags:
-  - Solar Tracker
-  - BioMimicry
-  - Efficient Technology
-  - Clean Energy
-  - Solar Energy
-  - Arduino
-  - LDR Sensor Technologies
+  - Computer Vision
+  - Deep Learning
+  - Instance Segmentation
+  - Mask R-CNN
+  - Image Processing
+  - Python
 
 last_modified_at: 2020-11-01T08:06:00-05:00
 og_image: "/assets/images/Custom-Colour-Splash-Effect-Improved_files/Custom-Colour-Splash-Effect-Improved_38_1.png"

@@ -32,9 +32,9 @@ actions:
 Hello World ! Let us write code together :)
 ```
 
-Farhan Hai Khan is a Data Science Geek currently pursueing Electrical Engineering at Institute of Engineering & Management, Kolkata, with experience working wth competitive teams and famous firms. His background in Artificial Intelligence, Machine Learning, Computer Vision & Deep Learning inform his technical and scientific approaches. Farhan is fueled by his passion for understanding the nuances of Neural Networks. He considers himself a ‘forever student’, eager to both build on his academic foundations in AI & ML and stay in tune with the latest technological advancements through continued coursework.
+Farhan Hai Khan is a Data Science Geek currently pursuing Electrical Engineering at Institute of Engineering & Management, Kolkata, with experience working with competitive teams and famous firms. His background in Artificial Intelligence, Machine Learning, Computer Vision & Deep Learning inform his technical and scientific approaches. Farhan is fueled by his passion for understanding the nuances of Neural Networks. He considers himself a ‘forever student’, eager to both build on his academic foundations in AI & ML and stay in tune with the latest technological advancements through continued coursework.
 
-His hunger for knowledge and determination to turn information into action has contributed to her most recent success at various groups, where he led his teams to award-winning campaigns for respectable firms. Meanwhile, he vastly improved the productivity of her team by implementing strategic project management methods and ensuring a work-life balance for his department.
+His hunger for knowledge and determination to turn information into action has contributed to his most recent success at various groups, where he led his teams to award-winning campaigns for respectable firms. Meanwhile, he vastly improved the productivity of his team by implementing strategic project management methods and ensuring a work-life balance for his department.
 
 Farhan strongly believes mindfulness in the workplace is key to success - a tenet he lives out through his interests in chess, football, music and coding. Farhan is currently working as a Data Analytics Intern at TakenMind and is always interested in a challenge. Reach out to khanfarhanpro@gmail.com to connect!
 
