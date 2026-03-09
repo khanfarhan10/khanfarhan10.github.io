@@ -32,9 +32,7 @@ I've been juggling two SIMs—an **Airtel SIM** and a **Jio SIM**—for a while 
 
 Let me break down my frustration, because I genuinely need your perspective on this.
 
-<div style="background-color: #f5f5f5; padding: 20px; border-left: 4px solid #e74c3c; margin: 30px 0; border-radius: 4px; max-width: 800px;">
-  <p><strong>💰 TL;DR:</strong> I'm spending ~13K/year on Airtel (SIM + WiFi) + another 3.3K/year on Jio as backup because Airtel keeps failing me. Should I just go all-in on Jio?</p>
-</div>
+**💰 TL;DR:** I'm spending ~13K/year on Airtel (SIM + WiFi) + another 3.3K/year on Jio as backup because Airtel keeps failing me. Should I just go all-in on Jio?
 
 ---
 
@@ -90,8 +88,6 @@ The Jio SIM has become a crutch because Airtel doesn't work.
 
 Let me lay out what I'm spending monthly on internet:
 
-<div style="background-color: #fff3cd; padding: 25px; border-radius: 8px; margin: 25px 0; max-width: 800px; border-left: 5px solid #ffc107;">
-
 | Service | Cost | Duration | Monthly | Status |
 |---------|------|----------|---------|--------|
 | **Airtel Mobile SIM** | 3K | 12 months | ~250 | ❌ 30GB/year—unusable |
@@ -99,8 +95,6 @@ Let me lay out what I'm spending monthly on internet:
 | **Jio SIM (Backup)** | 4K | 12 months | ~333 | 😅 Barely used, essential fallback |
 | **TOTAL MONTHLY** | | | **~1,083** | |
 | **TOTAL YEARLY** | | | **~13,000** | **For unreliable service** |
-
-</div>
 
 **Bottom line:** I'm spending ~1,083 per month = **~13,000 per year** for unreliable internet.
 
@@ -230,17 +224,15 @@ I'm genuinely curious if Jio is the answer, or if I'm missing something about wh
 
 ---
 
-<div style="background-color: #e8f4f8; padding: 25px; border-radius: 8px; margin: 30px 0; max-width: 800px; border-left: 5px solid #3498db;">
-  <h3 style="margin-top: 0; color: #2c3e50;">❓ Questions for You:</h3>
-  <ul style="line-height: 1.8;">
-    <li><strong>Which operator do you use?</strong></li>
-    <li><strong>How's your experience?</strong> (Reliable? Frequent outages?)</li>
-    <li><strong>What's your monthly/yearly cost?</strong></li>
-    <li><strong>Would you recommend switching?</strong></li>
-    <li><strong>Any hidden gotchas I should know about?</strong></li>
-  </ul>
-  <p style="margin-bottom: 0; text-align: center; font-weight: bold;">👉 Let me know in comments, WhatsApp, or email!</p>
-</div>
+## ❓ Questions for You:
+
+- **Which operator do you use?**
+- **How's your experience?** (Reliable? Frequent outages?)
+- **What's your monthly/yearly cost?**
+- **Would you recommend switching?**
+- **Any hidden gotchas I should know about?**
+
+👉 **Let me know in comments, WhatsApp, or email!**
 
 ---
 
