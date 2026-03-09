@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Disallow private posts from being indexed
+Disallow: /_posts/2026-03-10-The-Harsh-Realities-of-Hikes-in-Startup-Environments.md
+Disallow: /_posts/2026-03-10-*Harsh-Realities*
