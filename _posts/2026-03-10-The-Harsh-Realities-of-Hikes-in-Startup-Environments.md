@@ -9,6 +9,21 @@ noindex: true
 robots: "noindex, nofollow"
 ---
 
+<style>
+  .page__content {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+  }
+  
+  @media (min-width: 768px) {
+    .page__content {
+      padding: 0 40px;
+    }
+  }
+</style>
+
 > **📌 Note:** This post is shared via private link only. If you're reading this, please refrain from indexing, reposting, or sharing the link publicly. It's a personal story meant for friends, mentors, and people I trust. Thanks for respecting that.
 
 ## The Setup
@@ -51,13 +66,16 @@ But I was wearing the suit. And in that suit, I felt invincible. Stupid? Maybe. 
 
 **Lesson:** Never underestimate the psychological power of looking the part. Sometimes, you need to dress the job you want before you even interview for it.
 
-![Arriving at Cognizant in my navy suit, ready to compete](/assets/images/20260130_interview_experience/suit_at_car.jpeg)
-*Before the walk began—fresh, confident, feet still intact*
-
----
-
-![Me in my navy suit at Cognizant office, February 26, 2026](/assets/images/20260130_interview_experience/suit_at_office.jpeg)
-*Inside Cognizant after the 1km walk in torture shoes—still looking professional, barely holding it together*
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 900px; margin: 30px auto;">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/assets/images/20260130_interview_experience/suit_at_car.jpeg" alt="Arriving at Cognizant" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <figcaption style="margin-top: 10px; font-size: 0.9em; color: #666; font-style: italic;">Before the walk—fresh, confident, feet still intact</figcaption>
+  </figure>
+  <figure style="margin: 0; text-align: center;">
+    <img src="/assets/images/20260130_interview_experience/suit_at_office.jpeg" alt="Inside Cognizant office" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <figcaption style="margin-top: 10px; font-size: 0.9em; color: #666; font-style: italic;">After the 1km walk—still professional, barely intact</figcaption>
+  </figure>
+</div>
 
 ### The Building, the Crowd, and the Fire Alarm
 
