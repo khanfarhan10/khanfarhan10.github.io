@@ -28,11 +28,13 @@ robots: "noindex, nofollow"
 
 ## The Setup
 
-Earlier this year, I went through an experience that fundamentally changed how I think about compensation and self-worth in the job market. It started with a simple interview invitation from Cognizant on February 26th, 2026—my first formal interview after graduating from IEM Kolkata.
+Earlier this year—February 26, 2026—I went to an interview with Cognizant. It was my first interview after graduating from IEM Kolkata. But here's the important context: I'm not some fresh-out-of-college kid anymore. I'm a **Senior Computer Vision Engineer** with **5 years of professional experience**, multiple projects shipped, and a track record at my current startup.
 
-But this story isn't really about that interview. It's about what happened *after*, and the uncomfortable truth about how companies value their employees.
+So why was I interviewing? That's the whole story.
 
-**TL;DR:** I walked in with a 14.5 LPA + 2 LPA salary (from my startup) and walked out with a 20 LPA + 2.8 LPA counter-offer (22.8 LPA total). A whopping 38-40% hike. The secret? A legitimate offer letter from Cognizant for a Sr. Associate role showing the market thought I was worth 22 LPA. Sometimes you don't need to switch jobs—you just need to show your current company what you could earn elsewhere.
+This isn't really about that interview. It's about what happened *after*, and the uncomfortable truth about how companies value their employees—especially when they think you don't know your own worth.
+
+**TL;DR:** I walked in with a 14.5 LPA + 2 LPA salary (from my startup) and walked out with a 20 LPA + 2.8 LPA counter-offer (22.8 LPA total). A whopping 38-40% hike. The secret? A legitimate offer letter from Cognizant for a Sr. Associate role showing the market thought I was worth 22 LPA. Sometimes you don't need to switch jobs—you just need to show your current company what you could earn elsewhere. And more importantly: *know your worth and enforce it*.
 
 ---
 
@@ -40,13 +42,13 @@ But this story isn't really about that interview. It's about what happened *afte
 
 ### Zero Preparation, Maximum Confidence
 
-Let me set the scene: It was February 25, 2026. The interview was scheduled for the next morning at Cognizant's Kolkata office for a **Sr. Associate - Projects** role. I was chilling at home, deliberately avoiding the pressure of last-minute prep. I genuinely believed that a few days of cramming wouldn't move the needle. Plus, I had taken interviews as the interviewer at my startup, so I wasn't completely green.
+Let me set the scene: It was February 25, 2026. The interview was scheduled for the next morning at Cognizant's Kolkata office for a **Sr. Associate - Projects** role. I was chilling at home, deliberately avoiding the pressure of last-minute prep. I genuinely believed that a few days of cramming wouldn't move the needle. Plus, I had taken interviews as the interviewer at my startup for the past few years, so I wasn't completely green.
 
-But here's the thing—I was nervous. Not about the interview or my preparation, but about the *unknown*. This was the first real interview after college. The first time I'd be on the candidate side facing a company as big as Cognizant. There's a difference between interviewing others and being interviewed.
+But here's the thing—I was nervous. Not about the interview or my preparation, but about the *context*. This was my first market test in 5 years. My first real interview since college. The first time I'd be on the candidate side facing a company as big as Cognizant. There's a difference between interviewing others and being evaluated yourself.
 
 But here's the kicker—**I forgot to bring a pen.** Yes, a pen. The fundamental writing instrument.
 
-My mindset was that it would be a digital coding round. I was wrong.
+My mindset was that it would be a digital coding round, maybe they'd give me a laptop. I was wrong. I thought I'd be coding on a laptop, getting that smooth IDE experience. But nope. Instead, I got paper and pen. The worst possible setup. The best code editor is not even Google Docs—and if you haven't seen the [JOMATECH joke](https://youtu.be/X34ZmkeZDos?t=61), you're missing out on peak tech humor. Let's just say that trying to code on paper with indentation is a special kind of torture.
 
 ### The Suit Moment
 
@@ -79,15 +81,25 @@ But I was wearing the suit. And in that suit, I felt invincible. Stupid? Maybe. 
 
 ### The Building, the Crowd, and the Fire Alarm
 
-I arrived at the building around 11 AM (starting two hours late because of travel delays, but seemingly no one was checking). The security protocol at Cognizant's Kolkata office was strict—a heavy black register, an ID card with "GUEST" printed on it, and I had to leave my belongings at the entrance. The guard looked at me and said, "No laptop inside, sir." I was relieved I hadn't brought one.
+**On the location:** There was just one Cognizant office, but there was confusion regarding the exact building location. I was kinda grumpy that they couldn't provide a maps location on the invitation email itself for quick access. I got dropped at the good old Webel Bhavan, which is just beyond college—near IEM (our good old college). But Cognizant is actually two more buildings behind that. So I had to walk around 1km in those extremely uncomfortable shoes, through confusing lanes, trying to figure out where exactly to go. The traffic was one-way, so Uber/Rapido were out of the question. Fun times.
 
-Then I entered the main hall.
+I eventually found the building. When I entered, the first thing that appeared was a guard with a big fat register. Thankfully, I had no laptop—if I had brought one, I would've had to keep it at the entrance because guards are strictly not allowed to carry laptops inside. You're also not allowed to carry laptops inside. So I would've had to leave it. I had my documents in a bag, which was fine.
+
+They asked me to fill in details in the register—phone number and all that. It was all new to me. Then they handed me an ID card with "GUEST" printed on it. Only then was I allowed to enter.
+
+Once inside, I looked around with big eyes. The campus was massive. Skyscrapers everywhere. It was huge and impressive. But at first, I didn't know where to go. So I asked the guard: "Where do I have to go?" He guided me in Bengali: "Take a left, take a right..." I followed his instructions.
+
+I wasn't expecting a lot of candidates since it was invite only. I thought maybe around 10-20 candidates, or at most a small room with a few interviews.
+
+**Then I entered the main hall.**
 
 **Holy moly.**
 
-I was expecting 10-30 candidates, *max*. This was supposed to be an "invite only" round, right? Instead, there were easily 300-400 people already seated, with more trickling in. Some standing. Some sitting on each other. The room was massive—a typical corporate training hall with uncomfortable chairs arranged in rows—but it was *packed*.
+I was expecting 10-30 candidates, *max*. This was supposed to be an "invite only" round, right? Instead, there were easily 300-400 people already seated, with more trickling in. The hall—a typical corporate training hall with uncomfortable chairs arranged in rows—was absolutely *packed*.
 
-The scale of it was demoralizing. Thousands of people competing for the same Sr. Associate role. And here I was, fresh out of college, in my uncomfortable shoes, competing against people with 7-12+ years of experience.
+There was a long queue at the counter where people were submitting resumes and filling out forms. I realized at that moment: **I didn't have a pen.** Great. One more thing to figure out.
+
+The scale of it was demoralizing. Thousands of people competing for the same role. And there I was—in my uncomfortable shoes, competing against people with 7-12+ years of experience.
 
 For a split second, I seriously considered just turning around. Walking out. Going back to enjoy Kolkata. Having some phuchka near College Street. Pretending I never came.
 
@@ -95,67 +107,89 @@ But then I touched my suit jacket. Call it superstition, but that navy fabric gr
 
 So I stayed.
 
-While sitting in the queue to submit my resume, I overhead people discussing DSA problems, system design, and ML architectures. Some of them had tattoos and weathered hands—obvious sign of years in the industry. "I've got 12 years of experience," one guy mentioned to his friend. Another nodded, "Yeah, I'm around 10." 
+While sitting in the queue, I overhead people discussing DSA problems, binary trees, system design, and ML architectures—the full platter of topics. This was for a General Engineer and Data Scientist role, so people were prepping for everything from machine learning to software engineering decisions to system design. 
 
-And me? I was 22, fresh out of IEM Kolkata, with maybe 6 months of real work experience at my startup. The vulnerability hit different.
+Some of them had tattoos and weathered hands—obvious signs of years in the industry. "I've got 12 years of experience," one guy mentioned to his friend. Another nodded, "Yeah, I'm around 10-12 years." People with 7-12+ years of experience, significantly more than I expected.
 
-Time crawled. By 1 PM, I hadn't been called yet. My hunger started competing with my anxiety. I had no pen, no laptop, no breakfast. Just my navy suit, uncomfortable shoes, and an existential crisis.
+Now, I wasn't worried about that—I'd interviewed people with way more experience at my startup. But here's the thing: I wasn't just a fresh engineer anymore. I was a Senior Computer Vision Engineer with 5 years of shipped projects, leading teams, handling real responsibilities. So I could relate to their experience level. Still, standing there in that crowd of 300-400 people, you feel small. Like you're one drop in an ocean.
+
+Time crawled. By 1 PM, I hadn't been called yet. The front benches—people who came early—were getting called in groups of 5-10 for their interviews. But those of us who came late (I arrived around 11 AM, two hours after the session started) weren't being called. We were just sitting there, wasting time, getting hungry, getting grumpy.
 
 Then it happened. **A fire alarm went off.**
 
-A siren. Loud. Piercing. My heart jumped. Around me, people started looking confused. Were we evacuating? Was there an actual fire? 
+A siren. Loud. Piercing. My heart jumped. Around me, people started looking confused. Were we evacuating? Was there an actual fire?
 
-But I noticed something odd—the interview coordinators at the front weren't moving. They were just... chilling. Totally calm. One of them even smiled.
+But I noticed something odd—the interview coordinators at the front weren't moving. They were just... chilling. Totally calm.
 
-Then a guy emerged from the washroom, opened some kind of mirror gate (ventilation maybe?), and the noise got louder before the door shut again. A few people came out and muttered something. 
+Then a guy emerged from the washroom and opened some kind of mirror gate (probably ventilation). The noise got louder before the door shut again. A few people came out and muttered something.
 
-The rumor mill kicked into overdrive: "Someone was smoking in the washroom." 
+The rumor mill kicked into overdrive: "Someone was smoking in the washroom."
 
-Apparently, this was such a common occurrence that the interviewers didn't even flinch. The whole "security theater" of it felt surreal—a fire alarm for someone sneaking a cigarette, and the companies just... ignoring it.
+Apparently, this was such a common occurrence that the interviewers didn't even flinch. The whole "security theater" of it felt surreal—a fire alarm for someone sneaking a cigarette, and the interview panel just... ignoring it.
 
 ### The Written Coding Round
 
-Finally, my name was called. Three of us were taken to one of the interview rooms on the 13th/14th floor of this massive building.
+Finally, my name was called. Along with a few others, I was guided to the interview area. The guy guiding us told us to take a lift to the 13th or 14th floor—I forgot which. The building was a goddamn menace. We got there and walked into a pathway with multiple corridors. Very easy to get lost, honestly. We were directed to wait on the right side while interviewing was happening on the left (the rooms were just across from each other).
 
-The interviewer gave us a blank sheet of paper and a pen. **A pen. Not a laptop. A pen.**
+On the right side, there was a coffee machine. I thought about getting some coffee, but then I watched a Cognizant employee come in and operate it like he had a PhD in espresso preparation. This guy was handling 5-6 buttons at a time, making premium lattes and all. Since none of us knew how to operate it, we just took a seat and pretended we were very busy, even though all of us were very hungry. Classic.
 
-The questions were straightforward—array operations, one involving a greedy approach. But writing code on paper, with hand-written indentation, was something I hadn't done seriously since school.
+There were about 10-20 candidates waiting in that room. Eventually, around 11:50 AM, my name was called.
 
-I struggled with the indentation. At one point, I started using `<->` symbols to denote tabs because my triangular handwriting was getting out of hand.
+**Three of us were called at once.** One of the other candidates recognized the interviewer, and the interviewer recognized him back. Apparently they knew each other. That moment, I felt a slight panic—out of three candidates, the odds just got worse. There's always personal bias toward people you know. But I quickly noted that and pushed it aside. I could do this.
 
-I finished first among the three candidates and submitted my sheet. But then disaster: **the pen was leaking.** There was blue ink on my navy suit. I asked the interviewer if I could clean it up. He said yes. I got lost on the way to the washroom but found my way back.
+We were given a question to solve on paper. Paper. Not a laptop. Paper.
+
+**I didn't have a pen, so I asked for one.** The interviewer gave us blank sheets and a pen.
+
+Writing code on paper was absolute torture. I hadn't done that since school. I've done diagrams, maybe some pseudo code, but never actual Python code with proper indentation on paper. And you know what happens with nested indentation? Your writing starts looking triangular because there's no actual way to indent neatly. So I shifted to using `<->` symbols to denote indents. It looked ridiculous, but it worked.
+
+The questions themselves were straightforward—array operations, one involving a greedy approach. I wasn't able to solve it in the optimal sense, but I got a working solution in O(N) time. Could've been O(log N) if I'd sorted things or optimized differently, but I don't remember exactly.
+
+I finished first among the three candidates and submitted my sheet promptly. But then disaster: **the pen was leaking.** There was blue ink on my navy suit—great, just what I needed.
+
+I told the interviewer about the leak and asked if I could go to the washroom to clean up. He said yes, no problem.
+
+So I rushed to the washroom. But here's the thing about that building—**it was SO easy to get lost.** I got turned around trying to find my way back. Multiple pathways, confusing corridors. But I retraced my steps and managed to find my way back in about a minute or two.
+
+When I got back, there was blue ink on my knees too (the suit got hit). I cleaned everything up, got a new pen, and now the real interview could begin.
 
 ### The Actual Interview
 
-The interviewer was a middle-aged engineering manager, maybe 35-40 years old. Very composed, clearly experienced.
+The interviewer was a middle-aged engineering manager, probably 35-40 years old. Very composed, clearly experienced.
 
 Some questions I nailed. Some I fumbled badly.
 
 He asked about the basic building blocks of a CNN (Convolutional Neural Network). I blanked on the exact terminology and started rambling about stride and gradient descent instead of just saying **"Kernel and Activation Function."** Elementary stuff I should have remembered.
 
-He asked questions from my resume. He asked if I was interested in a leadership role or individual contributor role. He questioned whether I could actually code (not just manage). I clarified that yes, I code.
+He asked questions from my resume. He inquired whether I was interested in a leadership role or individual contributor role. He questioned whether I could actually code (not just manage). I clarified that yes, I code. I don't just manage people.
 
-I was so uncertain walking out of that room. I felt like I'd performed at maybe 10-20% of my actual capability. I genuinely thought I wouldn't make the cut.
+He asked me inheritance questions—which I wasn't super prepared for, but I answered very correctly because he was satisfied. Basic stuff: "You've got two classes that inherit each other. What properties do you get when you call...? What's the super method...?" Those kinds of questions. They surprised me because they were so elementary. I thought I'd forgotten to brush up on this, but I tried to answer everything very confidently.
+
+The interview went pretty well overall. But I walked out uncertain. I felt like I'd performed at maybe 10-20% of my actual capability. I genuinely thought I wouldn't make the cut.
 
 ### The Shock
 
-But then, around 2:30-3:00 PM, the interviewer came back into the waiting room and called out names. Mine was among them.
+But then, around 2:30-3:00 PM, the interviewer came back and asked me and a couple of others to fill out a form. My heart skipped. What now?
 
-My heart skipped. What now? Did I mess up? Was this a second round?
+I filled it out nervously. My hands were shaking slightly. I made some mistakes and had to correct them with white-out.
 
-I was handed a form and asked to fill it out. "Your contact details, address, experience summary," the lady said. I filled it out nervously. My hands were shaking slightly. I made some mistakes and had to correct them with white-out.
-
-My feet were killing me. I was hungry. I was exhausted. And now I had to fill out forms.
+My feet were killing me. I was hungry. I was exhausted. And I had to fill out forms.
 
 When I handed back the completed form, I did the most idiotic thing—I asked, "What happens next? Is there another round?"
 
-The interviewer—the same calm one who had sent me to the washroom—looked at me, smiled slightly, and said:
+The interviewer—the same calm one who'd sent me to the washroom—looked at me, smiled slightly, and said:
 
 **"It's over. You're selected. Just go home and relax. HR will call you with the next steps."**
 
-I was floored. Genuinely shocked. I had walked out of that interview room thinking I'd performed at 10-20% capacity. The CNN questions, the paper coding, the fumbled answers—I was *sure* I hadn't made it.
+I was floored. Genuinely shocked.
 
-But apparently, I had.
+---
+
+**After the Interview**
+
+I made a friend there and we came back to the IEM campus together. You know, the place where we both studied. We went behind the "Chakras and Dadas"—that area where we used to grab food during college times. Pure nostalgia hit. I ordered a regular paneer snake, and it brought back so many memories. We had sweets too from that sweet shop that was right next to it—the one we always went to during college. It was an amazing ordeal, honestly.
+
+After that, I rushed to a shoe store and got a new pair because my feet were absolutely killing me. Those original shoes had been a nightmare. Then I basically relaxed for the entire day, emotionally and physically drained but relieved.
 
 ---
 
@@ -185,6 +219,8 @@ But first, let me tell you about my startup life.
 
 ## The Current Picture: What I Was Actually Worth
 
+Here's the context: I'm a **Senior Computer Vision Engineer** with **5 years of professional experience**. I've shipped projects, led teams, made architectural decisions, mentored juniors, and handled significant responsibilities at my startup.
+
 At my startup, I was making:
 
 - **14.5 LPA** (fixed) **+ 2 LPA** (performance bonus) = **16.5 LPA total**
@@ -194,18 +230,18 @@ With a lot of "future promises":
 - New Year gifts that kept getting pushed back
 - ESOP vesting schedules that somehow always got delayed
 - Salary hitting my account on the 5th? Nope. More like 5th-10th, with the 10th becoming my "expected date"
-- PTO approvals taking weeks
+- Approvals for everything took forever
 - Everything had a "pending" tag on it
 
 But here's the thing—the *work* was genuinely good. We were building something meaningful. The company was growing. The problems I solved felt important. My team was tight. And despite the delays and bureaucratic friction, I actually enjoyed going to work.
 
 **That's the dangerous part.**
 
-When you enjoy your job, when the work feels purposeful, it's easy to overlook low compensation. You tell yourself, "It's a startup. Everyone's doing it for less. Plus, the ESOPs will be worth something someday, right?"
+When you're a Senior engineer with 5 years of experience doing meaningful work in a growing startup, it's easy to overlook compensation issues. You tell yourself, "It's a startup. They're growing. The ESOPs will be worth something someday. Plus, I'm building real ML models that matter."
 
-Wrong. That's the narrative companies use to underpay you.
+That's the narrative companies use to underpay senior engineers.
 
-I had been at the startup for around 1-2 years, handling significant responsibilities, mentoring juniors, leading projects, and doing work that easily justified a 25+ LPA salary in the market. But I was getting 16.5 LPA because... well, I had started at even less, and the increments were following the typical startup playbook: 8-10% raise per year, maximum.
+I had been at the startup for 1-2 years at this level, handling responsibilities that easily justified a 25+ LPA salary in the market. Leading computer vision projects, making technical decisions, mentoring engineers. But I was getting 16.5 LPA because I'd started at even less, and the increments were following the typical startup playbook: 8-10% raise per year, maximum.
 
 ### The Manager Conversation
 
