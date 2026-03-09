@@ -97,15 +97,12 @@ Let me lay out what I'm spending monthly on internet:
 | **Airtel Mobile SIM** | 3K | 12 months | ~250 | ❌ 30GB/year—unusable |
 | **Airtel Fiber WiFi** | 3K | 6 months | ~500 | ⚠️ Constantly down |
 | **Jio SIM (Backup)** | 4K | 12 months | ~333 | 😅 Barely used, essential fallback |
-| | | | | |
 | **TOTAL MONTHLY** | | | **~1,083** | |
 | **TOTAL YEARLY** | | | **~13,000** | **For unreliable service** |
 
 </div>
 
-**Total monthly spend:** ~1,083 per month = **~13K per year**
-
-For **unreliable internet.**
+**Bottom line:** I'm spending ~1,083 per month = **~13,000 per year** for unreliable internet.
 
 Meanwhile, I'm working from home most days. Video calls, file uploads, downloads, real-time collaboration. I can't afford downtime. But Airtel keeps forcing it on me.
 
