@@ -46,9 +46,9 @@ Photo Gallery
 
 # Resume
 
-A sanitized public resume will be linked here after the profile refresh.
+A public resume is not attached here.
 
-For opportunities, collaborations, or speaking and writing inquiries, please reach out by email or LinkedIn.
+For opportunities, collaborations, or speaking and writing inquiries, feel free to reach out by email.
 
 ## Professional links
 
