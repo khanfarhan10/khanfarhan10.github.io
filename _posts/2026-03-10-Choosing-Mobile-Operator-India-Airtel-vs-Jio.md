@@ -5,6 +5,7 @@ date: 2026-03-10
 categories: [Tech, Opinion, India]
 tags: [Airtel, Jio, Mobile-Networks, WiFi-Outages, Cost-Analysis]
 permalink: /blog/mobile-operator-india/
+published: false
 noindex: true
 robots: "noindex, nofollow"
 ---

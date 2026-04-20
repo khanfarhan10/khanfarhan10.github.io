@@ -5,6 +5,7 @@ date: 2026-03-10
 categories: [Career, Salary-Negotiation, Startups]
 tags: [Interview, Negotiation, CTC, Salary-Hike, Career-Growth]
 permalink: /blog/startup-salary-negotiation/
+published: false
 noindex: true
 robots: "noindex, nofollow"
 ---
