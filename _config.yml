@@ -18,9 +18,9 @@ minimal_mistakes_skin: "neon" # "mint" # "dark" # "neon" # "mint" #"default" # "
 locale: "en-US"
 title: "Farhan Hai Khan"
 title_separator: "|"
-subtitle: "Data Science Portfolio" # site tagline that appears below site title in masthead
+subtitle: "Applied AI, Computer Vision, and Software Systems" # site tagline that appears below site title in masthead
 name: "Farhan Hai Khan"
-description: "Data is my canvas and Machine Learning is my painting."
+description: "Applied AI engineer working across computer vision, OCR, intelligent automation, and research-driven software systems."
 url: "https://khanfarhan10.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "khanfarhan10/khanfarhan10.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,9 +86,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username: khanfarhan10
+  username:
 facebook:
-  username: khanfarhanh
+  username:
   app_id:
   publisher:
 og_image: "/assets/images/TeamFKlogo.png" # Open Graph/Twitter default site image
@@ -110,19 +110,13 @@ analytics:
 author:
   name: "Farhan Hai Khan"
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "**Data** is my **Canvas** and **Machine Learning** is my **Painting**."
-  location: "Kolkata, India."
+  bio: "**Applied AI** | **Computer Vision** | **OCR** | **Software Systems**"
+  location: "Kolkata, India"
   email:
   links:
     - label: "Google Scholar"
       icon: "fas fa-hat-cowboy"
       url: "https://scholar.google.com/citations?hl=en&user=-HE1HT4AAAAJ"
-    - label: "Virtual CV"
-      icon: "far fa-file"
-      url: "/vcv/"
-    - label: "Gmail"
-      icon: "fab fa-google"
-      url: "mailto:njrfarhandasilva10@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://khanfarhan10.github.io/"
@@ -138,24 +132,12 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Farhan_Hai_Khan"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "http://instagram.com/khanfarhan.dev/"
     - label: "Email"
       icon: "fa fa-envelope"
       url: "mailto:khanfarhanpro@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/itsmetheswagger"
     - label: "StackOverflow"
       icon: "fab fa-stack-overflow"
-      url: "https://stackoverflow.com/users/12464709/farhan-khan"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/khanfarhanh/"
-    - label: "Discord"
-      icon: "fab fa-discord"
-      url: "https://discord.gg/2xzxCUY"
+      url: "https://stackoverflow.com/users/12464709/farhan-hai-khan"
 
 
       
@@ -169,9 +151,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Gmail"
-      icon: "fab fa-google"
-      url: "mailto:njrfarhandasilva10@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://khanfarhan10.github.io/"
@@ -184,15 +163,12 @@ footer:
     - label: "OrcID"
       icon: "fas fa-id-card"
       url: "https://orcid.org/0000-0001-9854-760X"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/itsmetheswagger"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/khanfarhanh/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/i.am.the.swagger/"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Farhan_Hai_Khan"
+    - label: "StackOverflow"
+      icon: "fab fa-stack-overflow"
+      url: "https://stackoverflow.com/users/12464709/farhan-hai-khan"
     - label: "Email"
       icon: "fa fa-envelope"
       url: "mailto:khanfarhanpro@gmail.com"
